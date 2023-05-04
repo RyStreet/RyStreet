@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyStreet
-- 🌱 I’m currently learning Full Stack Development online
-- 💞️ I’m looking to collaborate on anything, I'm a newbie but want to learn and contribute
+- 🌱 I’m currently looking for junior web dev roles!
+- 💞️ I’m looking to collaborate on anything, excited to learn and contribute
 - 📫 How to reach me - ryanstreet122@gmail.com
 
 <!---
