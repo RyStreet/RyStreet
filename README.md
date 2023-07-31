@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyStreet
-- 🌱 I’m currently looking for junior web dev roles!
+- 🌱 I’m currently looking for web dev and project management roles!
 - 💞️ I’m looking to collaborate on anything, excited to learn and contribute
 - 📫 How to reach me - ryanstreet122@gmail.com
 
